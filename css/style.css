@@ -229,6 +229,7 @@ hr{
     justify-content: center;
     align-items: flex-start;
     background-image: url("/assets/abc.jpg");
+    margin-top: 20px;
 }
 
 
